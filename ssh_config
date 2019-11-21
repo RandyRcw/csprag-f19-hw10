@@ -1,0 +1,5 @@
+# Github
+Host github
+HostName github.com
+User git
+IdentityFile ~/.ssh/RandyRcw
